@@ -1,3 +1,2 @@
 #!/bin/bash
-echo $(($Breath**$LOVE))
-
+echo $(($'Breath'**$'LOVE'))
